@@ -1,0 +1,55 @@
+**Politique de Confidentialité de Slott Pro**
+
+**Introduction**
+
+Chez Slott Pro, nous prenons la confidentialité de vos données très au sérieux. Cette politique de confidentialité décrit comment nous collectons, utilisons, traitons et partageons vos informations, y compris les données personnelles, en conformité avec les lois en vigueur et les règles du Google Play Store.
+
+**Collecte des Données**
+
+Nous collectons les données suivantes pour fournir nos services :
+
+- **Pseudo et Mot de Passe** : Utilisés pour créer et maintenir votre profil sur notre application.
+- **Adresse Email** : Utilisée pour les communications relatives à votre compte et les notifications.
+- **Numéro de Téléphone** : Utilisé pour envoyer des rappels de rendez-vous par téléphone.
+- **Informations de Paiement** : Toutes les informations de paiement sont traitées sécuritairement par Stripe. Nous ne stockons aucune donnée bancaire sur nos serveurs.
+
+**Stockage et Sécurité des Données**
+
+Vos données personnelles sont stockées de manière sécurisée sur Firebase et Firestore, et nous utilisons des mesures de protection telles que le chiffrement pour assurer la sécurité de vos informations. Stripe, notre partenaire de paiement, gère de manière sécurisée toutes les informations de paiement.
+
+**Utilisation des Données**
+
+Nous utilisons vos données pour :
+- Gérer votre compte et vous fournir les services demandés.
+- Communiquer avec vous au sujet de votre compte ou de services que nous offrons.
+- Améliorer nos services et offrir une expérience personnalisée.
+
+**Partage des Données**
+
+Nous ne partageons vos données personnelles avec des tiers que dans les cas suivants :
+- Avec des prestataires de services qui nous aident à fournir nos services (tels que les fournisseurs de paiement et les services cloud).
+- Lorsque requis par la loi ou pour répondre à des demandes légales.
+- Si vous y avez explicitement consenti pour une finalité spécifique.
+
+**Vos Droits**
+
+Vous avez le droit de :
+- Accéder, modifier ou demander la suppression de vos données personnelles.
+- Retirer votre consentement à tout moment pour les futures utilisations de vos données.
+- Déposer une plainte auprès de l'autorité de protection des données si vous estimez que vos données ne sont pas traitées conformément à la loi.
+
+**Suppression de Compte**
+
+Vous pouvez supprimer votre compte à tout moment via les paramètres de l'application. Toutes vos données seront supprimées de manière définitive de nos serveurs et aucune copie ne sera conservée.
+
+**Modifications de la Politique de Confidentialité**
+
+Nous pouvons mettre à jour cette politique de temps à autre. Nous vous informerons de toute modification importante par email ou directement via l'application.
+
+**Contact**
+
+Pour toute question ou préoccupation concernant cette politique ou vos données, veuillez nous contacter via [insérer méthode de contact].
+
+---
+
+Assurez-vous de consulter un avocat pour vérifier que cette politique de confidentialité répond à toutes les exigences légales applicables et aux exigences spécifiques du Google Play Store avant de la publier.
